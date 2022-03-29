@@ -1,6 +1,7 @@
-branch
-touch
-add
-push
-checkout
-commit
+git branch
+git add
+git push
+git checkout
+git commit
+git pull
+git clone
